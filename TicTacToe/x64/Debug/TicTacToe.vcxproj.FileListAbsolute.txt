@@ -1,4 +1,0 @@
-C:\Users\adv1e\source\repos\TicTacToe\TicTacToe\x64\Debug\TicTacToe.vcxproj.AssemblyReference.cache
-C:\Users\adv1e\source\repos\TicTacToe\TicTacToe\x64\Debug\TicTacToe.vcxproj.SuggestedBindingRedirects.cache
-C:\Users\adv1e\source\repos\TicTacToe\TicTacToe\x64\Debug\TicTacToe.MyForm.resources
-C:\Users\adv1e\source\repos\TicTacToe\TicTacToe\x64\Debug\TicTacToe.vcxproj.GenerateResource.cache
